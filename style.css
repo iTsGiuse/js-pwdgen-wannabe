@@ -1,5 +1,5 @@
 .ms-container{
-    height: 700px !important;
+    height: 550px !important;
     width: 1000px !important;
     border: 5px solid black !important;
     margin-top: 10% !important;
@@ -8,10 +8,11 @@
     margin-left: 25% !important;
 }
 
+.ms-border-bottom{
+    border: 5px solid transparent !important;
+    border-bottom-color: black !important;
+}
+
 h1{
     color: red;
-}
-.me-n5{
-    margin-top: 30px;
-    margin-right: 500px;
 }
